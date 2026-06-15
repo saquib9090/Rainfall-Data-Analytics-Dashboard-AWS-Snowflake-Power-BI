@@ -66,19 +66,6 @@ Key fields include:
 * Monitored rainfall trends over time.
 * Enabled data-driven reporting through interactive dashboards.
 
----
-
-## Project Screenshots
-
-![Dashboard](RainfallAnalysis.png)
-
-![Dashboard](TemperatureAnalysis.png)
-
-![Dashboard](yieldsanalysis.png)
-
-![Dashboard](HumidityAnalysis.png)
-
-### Dashboard Overview
 
 
 ## Skills Demonstrated
