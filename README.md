@@ -72,19 +72,11 @@ Key fields include:
 
 ### Dashboard Overview
 
-Add screenshot here
+# Sales Dashboard Project
 
-### Rainfall Trend Analysis
+## Dashboard Screenshot
 
-Add screenshot here
-
-### Regional Rainfall Distribution
-
-Add screenshot here
-
-### KPI Summary Dashboard
-
-Add screenshot here
+![Sales Dashboard](images/dashboard.png)
 
 ---
 
