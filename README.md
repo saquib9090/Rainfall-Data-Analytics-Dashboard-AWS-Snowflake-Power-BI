@@ -70,15 +70,13 @@ Key fields include:
 
 ## Project Screenshots
 
+![Dashboard](Rainfall Analysis.png)
+![Dashboard](Temperature Analysis.png)
+![Dashboard](yields analysis.png)
+![Dashboard](Humidity Analysis.png)
+
 ### Dashboard Overview
 
-# Sales Dashboard Project
-
-## Dashboard Screenshot
-
-![Dashboard Screenshot](images/C:\Users\hp\Desktop\FR-May-2026\2 BI REPORTS(SS).png)
-
----
 
 ## Skills Demonstrated
 
