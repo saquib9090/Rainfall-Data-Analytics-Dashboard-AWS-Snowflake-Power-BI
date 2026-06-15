@@ -70,10 +70,13 @@ Key fields include:
 
 ## Project Screenshots
 
-![Dashboard](Rainfall Analysis.png)
-![Dashboard](Temperature Analysis.png)
-![Dashboard](yields analysis.png)
-![Dashboard](Humidity Analysis.png)
+![Dashboard](RainfallAnalysis.png)
+
+![Dashboard](TemperatureAnalysis.png)
+
+![Dashboard](yieldsanalysis.png)
+
+![Dashboard](HumidityAnalysis.png)
 
 ### Dashboard Overview
 
