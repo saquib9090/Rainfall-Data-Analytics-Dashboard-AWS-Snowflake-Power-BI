@@ -76,7 +76,7 @@ Key fields include:
 
 ## Dashboard Screenshot
 
-![Sales Dashboard](images/dashboard.png)
+![Dashboard Screenshot](images/C:\Users\hp\Desktop\FR-May-2026\2 BI REPORTS(SS).png)
 
 ---
 
